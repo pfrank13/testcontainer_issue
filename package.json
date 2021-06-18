@@ -1,0 +1,19 @@
+{
+  "name": "testcontainer_issue",
+  "version": "1.0.0",
+  "description": "This is a simple project to illustrate an issue I'm having with testcontainers",
+  "main": "index.js",
+  "keywords": [
+    "testcontainers",
+    "node"
+  ],
+  "author": "Peter Frank",
+  "license": "ISC",
+  "dependencies": {
+    "@aws-sdk/client-s3": "^3.18.0",
+    "@dsnp/sdk": "^0.1.0",
+    "ethers": "^5.3.1",
+    "node-fetch": "^2.6.1",
+    "testcontainers": "^7.11.1"
+  }
+}
